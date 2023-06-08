@@ -61,10 +61,3 @@ class Customer:
         print("Data Remove Successfully....")
 
 
-
-
-#c=Customer()
-#c.orderFlower()
-#c.order_history()
-#c.update_order()
-#c.remove_order()
